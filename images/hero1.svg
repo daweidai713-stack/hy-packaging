@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <rect fill="#1a1a1a" width="1920" height="1080"/>
+  <rect x="180" y="280" width="460" height="520" rx="20" fill="#2a2520" stroke="#8B7355" stroke-width="1.5" opacity="0.8"/>
+  <text x="410" y="520" text-anchor="middle" font-size="64">💍</text>
+  <text x="410" y="580" text-anchor="middle" fill="#C9A96E" font-size="16" font-family="sans-serif">Ring Box</text>
+  <rect x="680" y="240" width="460" height="600" rx="20" fill="#2a2520" stroke="#D4A574" stroke-width="2" opacity="0.9"/>
+  <text x="910" y="520" text-anchor="middle" font-size="80">💎</text>
+  <text x="910" y="590" text-anchor="middle" fill="#D4A574" font-size="18" font-family="sans-serif">Luxury Packaging</text>
+  <rect x="1180" y="280" width="460" height="520" rx="20" fill="#2a2520" stroke="#8B7355" stroke-width="1.5" opacity="0.8"/>
+  <text x="1410" y="520" text-anchor="middle" font-size="64">📿</text>
+  <text x="1410" y="580" text-anchor="middle" fill="#C9A96E" font-size="16" font-family="sans-serif">Necklace Box</text>
+  <text x="960" y="960" text-anchor="middle" fill="rgba(255,255,255,0.3)" font-size="14" font-family="sans-serif">Replace with your photo — hero1.jpg</text>
+</svg>
